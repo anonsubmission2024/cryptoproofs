@@ -1,3 +1,5 @@
+This repo was destroyed and re-created on 9/9/24 to hide de-anonymizing details.
+
 
 ## how to verify these models?
 
@@ -48,7 +50,7 @@ Now, to verify the KEM Sphinx ProVerif model:
 proverif kem_sphinx.passive.pv
 ```
 
-Which should generate lots of output and at the end print a summary of the results
+Which should generate output and at the end print a summary of the results
 like this:
 
 ```
